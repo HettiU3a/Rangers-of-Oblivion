@@ -1,0 +1,21 @@
+{
+    "name": "rangers-of-oblivion-hack/rangers-of-oblivion-hack-mod-apk-get-unlimited-gold",
+    "description": "Rangers of Oblivion Hack Mod APK Get Unlimited Gold Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Rangers of Oblivion",
+            "homepage": "http://yourl.cf/2019/01/rangers-of-oblivion-hack-gold-cheats.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
